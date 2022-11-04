@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/ABM-Blueberry">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABM-Blueberry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABM-Blueberry&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   </a>
 </div>
 
