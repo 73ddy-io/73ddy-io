@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/ABM-Blueberry">
-<img height="240" src="https://github-readme-stats.vercel.app/api?username=ABM-Blueberry&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+<img width="418" src="https://github-readme-stats.vercel.app/api?username=ABM-Blueberry&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 </a>
 </div> 
 
