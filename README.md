@@ -24,3 +24,5 @@
   </a>
   <img align="center" height="" width="" src="https://img.shields.io/badge/😈_GTX750_ti-141321?style=for-the-badge&logoColor=fcb72a" />
 </div>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
