@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/73ddy-io">
-<img width="419" src="https://readme-stats-2zpm-73ddy-io.vercel.app/api?username=73ddy-io&show_icons=true&theme=monokai&hide_border=true&bg_color=45,404040,292a2b,181818&include_all_commits=false&count_private=true"/>
+<img width="419" src="https://github-readme-stats-73ddy-io.vercel.app/api?username=73ddy-io&show_icons=true&theme=monokai&hide_border=true&bg_color=45,404040,292a2b,181818&include_all_commits=false&count_private=true"/>
 </a>
 </div> 
 
