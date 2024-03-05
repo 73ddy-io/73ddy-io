@@ -7,7 +7,6 @@
 </div> 
 
 <div>
-<img align="center" height="50" width="80" src="https://img.shields.io/badge/-292a2b.svg?style=for-the-badge&logo=c-sharp&logoColor=cb205f" />
 <img align="center" height="50" width="80" src="https://img.shields.io/badge/-292a2b.svg?style=for-the-badge&logo=c%2B%2B&logoColor=cb205f" />
 <img align="center" height="50" width="80" src="https://img.shields.io/badge/-292a2b?style=for-the-badge&logo=mysql&logoColor=cb205f" />
 <img align="center" height="50" width="80" src="https://img.shields.io/badge/-292a2b?style=for-the-badge&logo=html5&logoColor=cb205f" />
